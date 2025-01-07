@@ -1,0 +1,7 @@
+C:\Users\Administrador\Desktop\ValidadordeCartoes\ValidadordeCartoes\bin\Debug\ValidadordeCartoes.exe.config
+C:\Users\Administrador\Desktop\ValidadordeCartoes\ValidadordeCartoes\bin\Debug\ValidadordeCartoes.exe
+C:\Users\Administrador\Desktop\ValidadordeCartoes\ValidadordeCartoes\bin\Debug\ValidadordeCartoes.pdb
+C:\Users\Administrador\Desktop\ValidadordeCartoes\ValidadordeCartoes\obj\Debug\ValidadordeCartoes.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\ValidadordeCartoes\ValidadordeCartoes\obj\Debug\ValidadordeCartoes.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\ValidadordeCartoes\ValidadordeCartoes\obj\Debug\ValidadordeCartoes.exe
+C:\Users\Administrador\Desktop\ValidadordeCartoes\ValidadordeCartoes\obj\Debug\ValidadordeCartoes.pdb

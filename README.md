@@ -3,5 +3,5 @@ Programa simples para verificar se um numero de cartao de credito pertence a uma
 
 ## Descrição do Projeto
 Esse projeto tem verificar as bandeiras de cartao de credito existente (Visa, MasterCard, American Express, Discover, Dinner Club, JBC).
-## Ferramentas Utilzidas
+## Ferramentas Utilizadas
  - C# 
